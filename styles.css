@@ -1,0 +1,47 @@
+body {
+    background-color: #ffefd5;
+}
+
+.img{
+display:block;
+
+}
+
+
+
+
+img {
+    width: 400px;
+    height:350px;
+    border: 3px dashed olive;
+}
+
+.header {
+    text-align: center;
+    color: orange;
+    font-family: 'Ranchers', cursive;
+}
+
+button {
+    color: blue;
+}
+
+button:hover {
+    color: olive;
+}
+
+p {
+    font-family: 'Sora', sans-serif;
+}
+
+.counter {
+    font-family: 'Sora', sans-serif;
+    text-align: right;
+}
+    
+.results {
+    margin: 10px;
+    padding: 10px;
+    display: none;
+    text-align:center;
+}
